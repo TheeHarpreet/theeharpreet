@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harpreet!</h1>
-<h3 align="center">A passionate Computer Science Student from England</h3>
+<h3 align="center">A passionate First ClassComputer Science Graduate from England</h3>
 <h4 align="center">:student: Studying Computer Science (Hons) at Leeds Beckett University, England <br/> </h3>
 <h4 align="center">:pencil2: Problem-solver and team player honed through the ambition of developing applications that not only have exceptional performance but delivers value to its users <br/></h3>
 <h4 align="center">💭 Currently focusing on improving my skills in coding questions and participate in more open-source projects <br/></h3>
